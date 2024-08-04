@@ -44,9 +44,9 @@ The velocimeter has 5 states:
 
 ## Dashboard and Block Diagram
 
-![Diagram](https://github.com/rdhakan13/Velocimeter/tree/main/Screenshots/Dashboard_Screenshot.PNG)
+![Diagram](/Screenshots/Dashboard_Screenshot.png)
 <p align="center"><b>Figure 1:</b> Dashboard.</p>
 
-![Diagram](https://github.com/rdhakan13/Velocimeter/tree/main/Screenshots/Process-Data-Block-Diagram.PNG)
+![Diagram](/Screenshots/Process-Data-Block-Diagram.png)
 <p align="center"><b>Figure 2:</b> Process Data block diagram.</p>
 
