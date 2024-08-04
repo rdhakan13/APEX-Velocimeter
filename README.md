@@ -20,11 +20,17 @@ In this project, a velocimeter program was coded in LabVIEW that processed the d
 ```
 
 `Experimental Media Files` - contains the files for demonstration.
+
 `Glyphs` - contains the thumbnails for the user defined functions.
+
 `Saved Data Files` - contains the final output the program with the calculated acceleration.
+
 `Screenshots` - contains the screenshots of the program for quick reference.
+
 `Simulation Files` -  contains the raw .csv files that can be inputed into the LabView UI to produce the Saved Data Files.
+
 `SubVIs` -  contains user defined functions.
+
 `Type DefsProjectName` - contatins .ctl file for state machine architecture.
 
 ## State Machine 
@@ -38,9 +44,9 @@ The velocimeter has 5 states:
 
 ## Dashboard and Block Diagram
 
-![Diagram](https://github.com/rdhakan13/Velocimeter/tree/main/Screenshots/Dashboard_Screenshot.png)
+![Diagram](https://github.com/rdhakan13/Velocimeter/tree/main/Screenshots/Dashboard_Screenshot.PNG)
 <p align="center"><b>Figure 1:</b> Dashboard.</p>
 
-![Diagram](https://github.com/rdhakan13/Velocimeter/tree/main/Screenshots/Process-Data-Block-Diagram.png)
-<p align="center"><b>Figure 1:</b> Process Data block diagram.</p>
+![Diagram](https://github.com/rdhakan13/Velocimeter/tree/main/Screenshots/Process-Data-Block-Diagram.PNG)
+<p align="center"><b>Figure 2:</b> Process Data block diagram.</p>
 
